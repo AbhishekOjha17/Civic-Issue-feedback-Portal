@@ -48,15 +48,6 @@ npm run preview
 
 ## Design System
 
-### Colors
-- Primary: #2A70FF (Royal Blue)
-- Secondary: #E8F1FF (Soft Blue Backgrounds)
-- Accent: #FFD54F (for highlights like stars)
-- Neutral: #F8F9FB, #333
-
-### Typography
-- Headings: Poppins SemiBold
-- Body: Inter Regular
 
 ## Project Structure
 
